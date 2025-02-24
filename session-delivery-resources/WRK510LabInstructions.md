@@ -14,7 +14,7 @@
 
 ## Launching Data Explorer
 
-1. Launch Lab Environment test
+1. Launch Lab Environment
 2. Launch Microsoft Edge via the icon on the desktop
 3. Type `https://purview.microsoft.com` into Edge
 4. Login using the administrator credentials provided in the lab
