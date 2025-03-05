@@ -44,7 +44,7 @@
 ### Disable Everyone Except External User in People Picker
 
 1. Launch Microsoft Edge via the icon on the desktop
-2. Open the link <https://learn.microsoft.com/en-us/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps#example-2>
+2. Open the link `https://learn.microsoft.com/en-us/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps#example-2`
 3. Review the SharePoint Online cmdlet to disable the EEEU option
 
 ### Enable Audit and Configure AI Usage Monitoring
@@ -71,7 +71,7 @@
 11. Observe that the rule will detect when content is shared outside the organization. Click **Next**
 12. Observe the default protection settings.  Click **Next**
 13. Observe the available access and override settings. Click **Next**
-14. On the Policy Mode page, chose to **RUn the policy in simulation mode**.  Click **Next**
+14. On the Policy Mode page, chose to **Run the policy in simulation mode**.  Click **Next**
 15. Click **Submit**
 
 ## Configure site and document privacy setting
@@ -86,7 +86,7 @@
 6. On Provide basic details for this label, click **Next**
 7. On Define the scope for this label, review the configured settings and see how it is set to control **Groups & Sites**.  Click **Next**
 8. Review all of the configuration settings under items. Click **Next** to move through the configuration pages.
-9. On Define protection settings for groups and sites, observe the settings that are configured.  Note how they align to the settings you can configure on Sharepoint Sites and Teams.  Click **Next**
+9. On Define protection settings for groups and sites, observe the settings that are configured.  Note how they align to the settings you can configure on SharePoint Sites and Teams.  Click **Next**
 10. Observe that the site privacy is set to **Private**.  Click **Next**
 11. Observe that the default sharing is set to **Only people in your organization**. Note how this aligns to the sharing slider in SharePoint site settings.  Click **Next**
 12. Click **Cancel** to back out of the configuration pages.
@@ -128,4 +128,4 @@
 1. On the **Mark 8 Project Team** Click on **Documents** in the left hand Nav
 2. Click on the site gear and select **Library Settings**
 3. Review the list of available **Default Sensitivity Labels** and select **Confidential / All Employees**.  Click **Save**
-4. Create a new **Word Document** and note how the document is immediately labeled as **Confidential / All Employees**
+4. Create a new **Word Document** and note how the document is immediately labeled as **Confidential / All Employees**.
